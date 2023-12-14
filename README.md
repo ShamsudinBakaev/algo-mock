@@ -5,7 +5,7 @@ As part of the hackathon, my responsibility as a front-end developer was to crea
 ## Results
 
 - Experience working in a team with a backend developer, prompt engineer, designer and product manager at all stages of product creation.
-- **Successfully** completed duties. My colleagues assessed my work **positively**.
+- **Successfully** completed duties. My colleagues **assessed** my work **positively**.
 - **Effective** work under limited time and tight deadlines.
 
 These moments represent not only technological progress, but also valuable experience in teamwork and **effective** time management in an environment with limited resources.
