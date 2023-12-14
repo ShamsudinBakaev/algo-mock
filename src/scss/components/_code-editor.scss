@@ -1,0 +1,26 @@
+.editor {
+  counter-reset: line;
+  border: 1px solid #2d9cdb;
+  border-radius: 10px;
+  width: 650px;
+  min-height: 520px;
+  box-sizing: border-box;
+}
+
+.editor #codeArea {
+  outline: none;
+  padding-left: 60px !important;
+}
+
+.editor pre {
+  padding-left: 60px !important;
+}
+
+.editor .editorLineNumber {
+  position: absolute;
+  left: 0px;
+  color: #cccccc;
+  text-align: right;
+  width: 40px;
+  font-weight: 100;
+}
