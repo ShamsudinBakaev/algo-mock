@@ -9,3 +9,8 @@ As part of the hackathon, my responsibility as a front-end developer was to crea
 - **Effective** work under limited time and tight deadlines.
 
 These moments represent not only technological progress, but also valuable experience in teamwork and **effective** time management in an environment with limited resources.
+
+## Screenshots
+
+![First](./public/screenshots/screenshot-2.png)
+![Second](./public/screenshots/screenshot-1.png)
